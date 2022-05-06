@@ -1,4 +1,4 @@
-# DS303
+# DS303 - Stock Market Technical Analysis
 
 Execution Steps:
 
