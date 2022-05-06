@@ -1,6 +1,13 @@
 # DS303 - Stock Market Technical Analysis
 
-Execution Steps:
+Broadly, stock market analysis is divided into two parts – Fundamental Analysis and Technical Analysis.
+
+Fundamental Analysis involves analyzing the company’s future profitability on the basis of its current business environment and financial performance.
+Technical Analysis, on the other hand, includes reading the charts and using statistical figures to identify the trends in the stock market.
+
+As you might have guessed, our focus will be on the technical analysis part. Our interest in using Tech in finance motivated us to pursue this project.
+
+## Execution Steps:
 
 1. Unzip the file in any directory
 
